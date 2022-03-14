@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
--Click on the gif to see FULL VIDEO-
+-Click on this link to see FULL VIDEO: https://recordit.co/tIAliQbETj
 <br><img src="https://recordit.co/tIAliQbETj.gif"><br>
 
 ## Reflection Questions
