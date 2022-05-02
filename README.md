@@ -2,7 +2,7 @@
 
 By: **Huy Nguyen**
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://hip-special-caption.glitch.me
 
 ## Required Functionality
 
@@ -28,9 +28,6 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
 
@@ -38,25 +35,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 -Click on this link to see FULL VIDEO: https://recordit.co/tIAliQbETj
 <br><img src="https://recordit.co/tIAliQbETj.gif"><br>
-
-## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[w3school.com, https://developer.mozilla.org/en-US/]
-
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[]
-
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](your-link-here)
 
 
 ## License
