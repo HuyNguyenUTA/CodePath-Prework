@@ -1,10 +1,6 @@
 # *Light and Sound Memory Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
-
-Submitted by: **Huy Nguyen**
-
-Time spent: **#** hours spent in total
+By: **Huy Nguyen**
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
